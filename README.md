@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [This page](https://github.com/qbdq)
 
-- 📫 How to reach me **Abdooisgt@gmail.com**
+- 📫 How to reach me **abdooisgt@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gharsa-abderrahmen/](https://www.linkedin.com/in/gharsa-abderrahmen/)
 
