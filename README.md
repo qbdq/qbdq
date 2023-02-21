@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Odoo & Octal ERPS**
 
-- 💬 Full time student & researcher [Intelligent decision making strategies](https://isg.rnu.tn/)
+- 💬 Full time student & researcher [Intelligent Decision Making Strategies](https://isg.rnu.tn/)
 
-- 👨‍💻 All of my projects are available at [This page](https://github.com/qbdq)
+- 👨‍💻 All of my projects are available at [this page](https://github.com/qbdq)
 
 - 📫 How to reach me **abdooisgt@gmail.com**
 
