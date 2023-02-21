@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahmen Gharsa</h1>
 <h3 align="center">Master's student at The Higher Institute of Management of Tunis , Developer & IT Consultant</h3>
 
-- 🔭 I’m currently working on **Odoo & Octal ERPS**
+- 🔭 I’m currently working on **Odoo & Octal ERP**
 
 - 💬 Full time student & researcher [Intelligent Decision Making Strategies](https://isg.rnu.tn/)
 
