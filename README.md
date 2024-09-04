@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! 👋</h1>
 <h3 align="center">This is Abderrahmen Gharsa</h3> 
-<h3 align="center">Odoo Software Developer & IT Consultant </h3>
+<h3 align="center">Odoo Software Developer</h3>
 
 - 🖥️ Full time **Odoo Software Developer** (V14;V15;V17).
-- 🤖 MSc Student at the Higher Institute of Management of Tunis[AI & Deep Learning](https://isg.rnu.tn/) 
+- 🤖 M.Sc. Student at the Higher Institute of Management of Tunis[AI & Deep Learning](https://isg.rnu.tn/) 
 - 🤖 Engineering Student at the Private Higher School of Engineering and Technology[ESPRIT](https://isg.rnu.tn/) 
 - 📫 Reach me out at: **abdooisgt@gmail.com**
 - 📄 Know more about my experiences: [https://www.linkedin.com/in/gharsa-abderrahmen/ (https://www.linkedin.com/in/gharsa-abderrahmen/)
