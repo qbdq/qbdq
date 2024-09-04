@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abderrahmen Gharsa</h1>
 <!-- <h3 align="center">Master's student at The Higher Institute of Management of Tunis , Developer & IT Consultant</h3> -->
-<h3 align="center">Python Developer & IT Consultant </h3>
+<h3 align="center">Odoo Developer & IT Consultant </h3>
 
-- 🔭 I’m currently working on **Odoo & Octal ERP**
-
-<!-- 💬 Full time student & researcher [Intelligent Decision Making Strategies](https://isg.rnu.tn/) -->
-
-- 👨‍💻 All of my projects are available at [this page](https://github.com/qbdq)
-
-- 📫 How to reach me **abdooisgt@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/gharsa-abderrahmen/](https://www.linkedin.com/in/gharsa-abderrahmen/)
+- 🖥️ Full time **Odoo Software Developer** (V14;V15;V17).
+- 🤖 Msc Student at The Higher Institut of Management Of Tunis [AI & Deep Learning](https://isg.rnu.tn/) 
+- 🤖 Engennering Student at The Private Higher School of Engineering and Technology [ESPRIT](https://isg.rnu.tn/) 
+- 📫 Reach me out on: **abdooisgt@gmail.com**
+- 📄 Know more about my experiences [https://www.linkedin.com/in/gharsa-abderrahmen/](https://www.linkedin.com/in/gharsa-abderrahmen/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
