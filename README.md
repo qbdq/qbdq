@@ -26,8 +26,7 @@ I specialize in **ERP customization, automation, and AI-assisted business soluti
 - API Integrations & System Architecture  
 - Performance Optimization & Debugging  
 - Cross-Team Collaboration & Agile Workflows  
-- Continuous Business Process Improvement  
-
+- Continuous Business Process Improvement
 
 ### 📫 Contact
 - 📧 Email: **abdooisgt@gmail.com**  
