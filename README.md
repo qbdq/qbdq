@@ -30,8 +30,3 @@ I specialize in **ERP customization, automation, and AI-assisted business soluti
 ### 📫 Contact
 - 📧 Email: **abdooisgt@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/gharsa-abderrahmen](https://www.linkedin.com/in/gharsa-abderrahmen/)
-
----
-
-### ⚡ Fun Fact
-I blend **business, code, and AI** to craft scalable ERP solutions that make a difference 🚀
