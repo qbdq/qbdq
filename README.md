@@ -31,7 +31,7 @@ I specialize in **ERP customization, automation, and AI-assisted business soluti
 ---
 
 ### 📈 GitHub Stats
-![Abderrahmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladashe111-spec&show_icons=true&theme=radical)
+![Abderrahmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbdq&show_icons=true&theme=radical)
 
 ---
 
