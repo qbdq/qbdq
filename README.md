@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Abderrahmen Gharsa</h1>
-<h3 align="center">🚀 Odoo Engineer | AI & Financial Computing Enthusiast</h3>
+<h3 align="center">🚀 Odoo Engineer | AI & Financial Computing</h3>
 
 ---
 
