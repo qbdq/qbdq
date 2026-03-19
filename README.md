@@ -28,12 +28,6 @@ I specialize in **ERP customization, automation, and AI-assisted business soluti
 - Cross-Team Collaboration & Agile Workflows  
 - Continuous Business Process Improvement  
 
----
-
-### 📈 GitHub Stats
-![Abderrahmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=qbdq&show_icons=true&theme=radical)
-
----
 
 ### 📫 Contact
 - 📧 Email: **abdooisgt@gmail.com**  
