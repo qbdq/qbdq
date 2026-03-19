@@ -20,7 +20,7 @@ I specialize in **ERP customization, automation, and AI-assisted business soluti
 ---
 
 ### 🧠 Expertise
-**Functional:** Sales • Accounting • Invoicing • Purchasing • Expenses  
+**Functional:** Sales • MRP • Pay Offs • Accounting • Invoicing • Purchasing • Expenses  
 **Technical:**  
 - Custom Odoo Module Development  
 - API Integrations & System Architecture  
