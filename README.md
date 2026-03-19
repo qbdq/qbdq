@@ -4,7 +4,7 @@
 ---
 
 ### 💼 About Me
-I'm a **Full-Time Odoo Engineer** with experience in V14, V15 & V17.  
+I'm a **Full-Time Odoo Engineer** with experience in V14 - v19.  
 I specialize in **ERP customization, automation, and AI-assisted business solutions**, bridging the gap between **business needs** and **technical excellence**.
 
 ---
